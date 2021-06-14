@@ -1,2 +1,2 @@
 # Blender-Writer
-Blender Scripts
+Blender scripts for animating a pen writing on paper.
